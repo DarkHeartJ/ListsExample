@@ -16,6 +16,7 @@
                 list1.Add(50);
                 list1.Add(60);
                 list1.Add(70);
+                list1.Add(80);
                 ShowListContain(list1);
                 Console.ReadKey();
 
